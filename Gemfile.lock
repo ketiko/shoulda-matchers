@@ -20,7 +20,7 @@ GEM
     pygments.rb (1.1.1)
       multi_json (>= 1.0.0)
     rake (12.3.0)
-    redcarpet (3.4.0)
+    redcarpet (3.5.1)
     rspec (3.6.0)
       rspec-core (~> 3.6.0)
       rspec-expectations (~> 3.6.0)
